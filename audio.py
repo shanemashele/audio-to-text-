@@ -3,7 +3,7 @@ import os
 from groq import Groq
 
 # Replace 'YOUR_API_KEY' with your actual Groq API key
-api_key = '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'
+api_key = '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'
 
 # Initialize Groq client
 client = Groq(api_key=api_key)
